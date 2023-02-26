@@ -18,6 +18,10 @@
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christina-giannouli/pandas-steps-wrapper.git"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
